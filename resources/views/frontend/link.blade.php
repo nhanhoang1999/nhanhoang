@@ -1,0 +1,1 @@
+<p> Click vô link bên dưới để đổi lại mật khẩu đăng nhập <a href="{{$route}}">Đổi mật khẩu</a></p>
